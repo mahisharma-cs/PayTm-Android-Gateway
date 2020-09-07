@@ -10,5 +10,6 @@ Paytm provide two types of gateway. The test one and in production mode. This me
  - Else if the paytm application is not installed in user's device then the payment would complete through webpage.
  - Do not worry about payment... It is complete in any case.
  
-# You just need to pass three parameters (orderid,transaction-amt,merchant-id)
+# You just need to pass three parameters
+# (orderid,transaction-amt,merchant-id)
  - Yes, you read correct. Only you need to pass these three parameters and get a transaction token of exact 45 characters.
